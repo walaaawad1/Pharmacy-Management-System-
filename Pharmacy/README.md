@@ -5,6 +5,8 @@ This project is a **Pharmacy Management System (Front End only)** designed to pr
 The system is currently implemented as a **front-end application only**.  
 A backend service will be developed and integrated later by a backend developer.
 
+## Live Demo: pharmaflow-walaa.surge.sh
+
 ---
 
 ## Project Type
